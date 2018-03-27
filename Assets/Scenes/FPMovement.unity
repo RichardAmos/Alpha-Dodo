@@ -228,17 +228,28 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &737644381
+=======
+--- !u!1 &1057605564
+>>>>>>> Liam-Branch
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 737644385}
   - component: {fileID: 737644384}
   - component: {fileID: 737644383}
   - component: {fileID: 737644382}
+=======
+  - component: {fileID: 1057605568}
+  - component: {fileID: 1057605567}
+  - component: {fileID: 1057605566}
+  - component: {fileID: 1057605565}
+>>>>>>> Liam-Branch
   m_Layer: 0
   m_Name: Cube (2)
   m_TagString: Untagged
@@ -246,12 +257,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!23 &737644382
+=======
+--- !u!23 &1057605565
+>>>>>>> Liam-Branch
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 737644381}
+=======
+  m_GameObject: {fileID: 1057605564}
+>>>>>>> Liam-Branch
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -280,38 +299,63 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!65 &737644383
+=======
+--- !u!65 &1057605566
+>>>>>>> Liam-Branch
 BoxCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 737644381}
+=======
+  m_GameObject: {fileID: 1057605564}
+>>>>>>> Liam-Branch
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!33 &737644384
+=======
+--- !u!33 &1057605567
+>>>>>>> Liam-Branch
 MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 737644381}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &737644385
+=======
+  m_GameObject: {fileID: 1057605564}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1057605568
+>>>>>>> Liam-Branch
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 737644381}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 11.89, y: 0.54, z: -12.130823}
+=======
+  m_GameObject: {fileID: 1057605564}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -19.149506, y: 0.5987057, z: -9.497428}
+>>>>>>> Liam-Branch
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1082159133
 GameObject:
   m_ObjectHideFlags: 0
@@ -396,6 +440,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Liam-Branch
 --- !u!1 &1168035336
 GameObject:
   m_ObjectHideFlags: 0
