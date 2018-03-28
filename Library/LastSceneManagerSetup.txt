@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Blockout.unity
+=======
+- path: Assets/Scenes/FPMovement.unity
+>>>>>>> MergeDemo
   isLoaded: 1
   isActive: 1
