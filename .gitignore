@@ -4,14 +4,23 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild
+<<<<<<< HEAD
 [Bb]uilds/
 [Ll]ibrary/
+=======
+/[Bb]uilds/
+/[Ll]ibrary/
+>>>>>>> Michael-Branch
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
 *.apk
 *.unitypackage
+<<<<<<< HEAD
  /Library/
+=======
+ 
+>>>>>>> Michael-Branch
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -43,6 +52,9 @@ ehthumbs.db
 [Dd]esktop.ini
 Corridor/Library/ShaderCache/
 Corridor/Library/metadata/
+<<<<<<< HEAD
 *.dwlt
 *.dwlt
 *.dwlt
+=======
+>>>>>>> Michael-Branch
